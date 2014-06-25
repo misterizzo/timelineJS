@@ -39,7 +39,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 #TimelineJS gem
-gem 'timelineJS-rails', '~> 1.1.5'
+gem 'timelineJS', '~> 1.1.0'
 
 #Bootstrap gem
 gem 'bootstrap-sass'
